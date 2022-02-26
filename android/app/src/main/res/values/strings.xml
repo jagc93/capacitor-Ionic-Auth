@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">capacitorIonic</string>
+    <string name="title_activity_main">capacitorIonic</string>
+    <string name="package_name">com.capacitorionic.app</string>
+    <string name="custom_url_scheme">com.capacitorionic.app</string>
+    <string name="fb_app_name">capacitorIonic</string>
+    <string name="fb_app_id">330814661692072</string>
+    <string name="fb_login_protocol_scheme">fb330814661692072</string>
+</resources>

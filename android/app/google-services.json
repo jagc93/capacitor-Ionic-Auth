@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "884850466812",
+    "project_id": "capacitorionic-1",
+    "storage_bucket": "capacitorionic-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884850466812:android:4804790bab3c6dffe79c79",
+        "android_client_info": {
+          "package_name": "com.capacitorionic.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884850466812-c0judbbut6mfq40105hsgt0pl535bmvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capacitorionic.app",
+            "certificate_hash": "2d495a8e691cc0e627c25d9b608dba28e5b848d0"
+          }
+        },
+        {
+          "client_id": "884850466812-bes25qk9bdql5llklgs1cgenhrtdpds1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWQyhZKct4KCFZH3eCR8-Ctn1X234FT00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884850466812-bes25qk9bdql5llklgs1cgenhrtdpds1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

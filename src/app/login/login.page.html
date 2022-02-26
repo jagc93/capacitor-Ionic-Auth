@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>login</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div>
+    <br><br>
+    <button (click)="ingresar()">Ingresar</button>
+    <button (click)="registrar()">Registrar</button>
+    <button (click)="ingresarGoogle()">Ingresar con Google Web</button>
+    <button (click)="ingresarGoogleAndroid()">Ingresar con Google Android</button>
+    <button (click)="ingresarFacebook()">Ingresar con Facebook</button>
+    <button (click)="ingresarFacebookAndroid()">Ingresar con Facebook Android</button>
+    <button (click)="logoutFB()">Salir de facebook</button>
+    <p *ngIf="result !== undefined && result !== null">{{result | json}}</p>
+  </div>
+</ion-content>
